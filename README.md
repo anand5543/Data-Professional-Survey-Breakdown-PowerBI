@@ -20,3 +20,8 @@ The goal of this project is to analyze a real-world survey taken by data profess
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created measures and calculated columns using DAX according to the questions asked.
 - Merged all visuals into one dashboard and applied slicers to make it dynamic and interactive.
+
+## Dashboard
+
+<img width="1164" height="658" alt="Screenshot 2026-06-05 142447" src="https://github.com/user-attachments/assets/2b4c5802-4ad8-4b40-b9f8-f2283f7d2570" />
+
